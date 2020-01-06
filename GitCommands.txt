@@ -1,0 +1,5 @@
+$ git config --global user.name "Saduneninikhil"
+$ git config --global user.email "naninikhil20@gmail.com"
+$ git init Demo(Creates local folder in Git Bash location).
+
+$ git clone https://github.com/SaduneniNikhil/Java-Practice.git(local copy of my repository from GitHub)

@@ -1,0 +1,2 @@
+ctrl+shift+c-----Comments
+Shift+End-------Copy
